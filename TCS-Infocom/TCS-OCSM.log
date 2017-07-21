@@ -1,0 +1,1028 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.7.6)  20 JUL 2017 21:52
+entering extended mode
+**D:/JRS-OCSN/TCS-Infocom/TCS-OCSM.tex
+(D:/JRS-OCSN/TCS-Infocom/TCS-OCSM.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\UserData\tex\latex\ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (C:\CTEX\UserData\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\CTEX\MiKTeX\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip44
+\subfigcapskip=\skip45
+\subfigcaptopadj=\dimen128
+\subfigbottomskip=\skip46
+\subfigcapmargin=\dimen129
+\subfiglabelskip=\skip47
+\c@subfigure=\count95
+\c@lofdepth=\count96
+\c@subtable=\count97
+\c@lotdepth=\count98
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip48
+\subfig@bottom=\skip49
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(C:\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen130
+\epsfysize=\dimen131
+)
+(C:\CTEX\MiKTeX\tex\latex\base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(C:\CTEX\UserData\tex\latex\paralist\paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip50
+\plpartopsep=\skip51
+\plitemsep=\skip52
+\plparsep=\skip53
+\pl@lab=\toks17
+)
+(C:\CTEX\UserData\tex\latex\comment\comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment')
+(C:\CTEX\MiKTeX\tex\latex\tools\xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(C:\CTEX\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+(C:\CTEX\UserData\tex\latex\slashbox\slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box28
+\@slashboxb=\box29
+\@slashboxc=\box30
+\@slashboxwd=\count99
+\@slashboxht=\count100
+\@slashsepl=\dimen132
+\@slashsepr=\dimen133
+) (C:\CTEX\UserData\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\CTEX\UserData\tex\latex\caption\caption2.sty
+Package: caption2 2015/09/15 v2.2-100 Customising captions (AR)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(C:\CTEX\UserData\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen134
+\captionmargin@=\dimen135
+\captionwidth=\dimen136
+\caption@tempdima=\dimen137
+\caption@indent=\dimen138
+\caption@parindent=\dimen139
+\caption@hangindent=\dimen140
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 221.
+\captionlinewidth=\dimen141
+\realcaptionwidth=\dimen142
+Package caption2 Info: subfigure package v2.1 (or newer) detected on input line
+ 449.
+\subfigcapwidth=\dimen143
+\subcapindent=\dimen144
+)
+(C:\CTEX\UserData\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(C:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks18
+\float@box=\box31
+\@float@everytoks=\toks19
+\@floatcapt=\box32
+)
+(C:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks20
+\c@algorithm=\count102
+)
+(C:\CTEX\UserData\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count103
+\c@ALC@line=\count104
+\c@ALC@rem=\count105
+\c@ALC@depth=\count106
+\ALC@tlm=\skip54
+\algorithmicindent=\skip55
+)
+(C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\CTEX\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen145
+\extrarowheight=\dimen146
+\NC@list=\toks21
+\extratabsurround=\skip56
+\backup@length=\skip57
+)
+(C:\CTEX\UserData\tex\latex\leftidx\leftidx.sty
+Package: leftidx 2003/09/24 v1.03 Left indices
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks22
+\ex@=\dimen147
+))
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen148
+)
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count107
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count108
+\leftroot@=\count109
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count110
+\DOTSCASE@=\count111
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count112
+\c@MaxMatrixCols=\count113
+\dotsspace@=\muskip11
+\c@parentequation=\count114
+\dspbrk@lvl=\count115
+\tag@help=\toks23
+\row@=\count116
+\column@=\count117
+\maxfields@=\count118
+\andhelp@=\toks24
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks25
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count119
+\Gm@cntv=\count120
+\c@Gm@tempcnt=\count121
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks27
+
+(C:\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg))
+\c@theorem=\count122
+\c@definition=\count123
+\c@protocol=\count124
+
+(D:\JRS-OCSN\TCS-Infocom\TCS-OCSM.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+
+-- Lines per column: 56 (approximate, difference = 0.11012pt).
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen164
+\scratchbox=\box35
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen165
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks29
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(61.42993pt, 672.11012pt, 61.42993pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89pt
+* \textheight=672.11012pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-41.40767pt
+* \headheight=12.0pt
+* \headsep=18.56761pt
+* \topskip=12.0pt
+* \footskip=40.5821pt
+* \marginparwidth=20.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=10.79993pt plus 4.79993pt minus 2.39996pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\JRS-OCSN\TCS-Infocom\abstract.tex) Excluding 'comment' comment.
+(D:\JRS-OCSN\TCS-Infocom\intro.tex
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1.
+ (C:\CTEX\MiKTeX\tex\latex\base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 1.
+
+(C:\CTEX\MiKTeX\tex\latex\jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+
+
+]) (D:\JRS-OCSN\TCS-Infocom\formu.tex
+Excluding 'comment' comment. Excluding 'comment' comment.)
+(D:\JRS-OCSN\TCS-Infocom\algorithm.tex [2]
+Underfull \hbox (badness 1845) in paragraph at lines 61--62
+\OT1/ptm/m/n/10 whose max-i-mum du-ra-tion is al-so $\OML/cmm/m/it/10 GROD\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 I\OT1/cmr/m/n/10 )$\OT1/ptm/m/n/10 . That is
+ []
+
+[3]
+Underfull \hbox (badness 1735) in paragraph at lines 68--69
+[]\OT1/ptm/m/n/10 Because $\OML/cmm/m/it/10 f[]$ \OT1/ptm/m/n/10 is the last fi
+n-ished flow, $\OML/cmm/m/it/10 f[]$ \OT1/ptm/m/n/10 s-tart-s at
+ []
+
+[4]
+Package epstopdf Info: Source file: <timeline.eps>
+(epstopdf)                    date: 2017-07-20 11:04:18
+(epstopdf)                    size: 1303777 bytes
+(epstopdf)             Output file: <timeline-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 11:04:59
+(epstopdf)                    size: 82058 bytes
+(epstopdf)             Command: <epstopdf --outfile=timeline-eps-converted-to.p
+df timeline.eps>
+(epstopdf)             \includegraphics on input line 177.
+Package epstopdf Info: Output file is already uptodate.
+ <timeline-eps-converted-to.pdf, id=26, 899.36pt x 324.21124pt>
+File: timeline-eps-converted-to.pdf Graphic file (type pdf)
+
+<use timeline-eps-converted-to.pdf>
+Package pdftex.def Info: timeline-eps-converted-to.pdf used on input line 177.
+(pdftex.def)             Requested size: 227.64894pt x 82.0618pt.
+
+Underfull \vbox (badness 8189) has occurred while \output is active []
+
+)
+(D:\JRS-OCSN\TCS-Infocom\evaluation.tex [5 <D:/JRS-OCSN/TCS-Infocom/timeline-ep
+s-converted-to.pdf>]
+Package epstopdf Info: Source file: <28_k_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110352 bytes
+(epstopdf)             Output file: <28_k_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:53
+(epstopdf)                    size: 6830 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_k_cct-eps-converted-to.p
+df 28_k_cct.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_k_cct-eps-converted-to.pdf, id=78, 234.8775pt x 163.61125pt>
+File: 28_k_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_k_cct-eps-converted-to.pdf>
+Package pdftex.def Info: 28_k_cct-eps-converted-to.pdf used on input line 37.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+Package epstopdf Info: Source file: <normal_k_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110358 bytes
+(epstopdf)             Output file: <normal_k_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:54
+(epstopdf)                    size: 6836 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_k_cct-eps-converted-
+to.pdf normal_k_cct.eps>
+(epstopdf)             \includegraphics on input line 44.
+Package epstopdf Info: Output file is already uptodate.
+
+<normal_k_cct-eps-converted-to.pdf, id=79, 234.8775pt x 163.61125pt>
+File: normal_k_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use normal_k_cct-eps-converted-to.pdf>
+Package pdftex.def Info: normal_k_cct-eps-converted-to.pdf used on input line 4
+4.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+Package epstopdf Info: Source file: <28_k_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112552 bytes
+(epstopdf)             Output file: <28_k_cct_histogram-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:54
+(epstopdf)                    size: 12101 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_k_cct_histogram-eps-conv
+erted-to.pdf 28_k_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 51.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_k_cct_histogram-eps-converted-to.pdf, id=80, 234.8775pt x 163.61125pt>
+File: 28_k_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_k_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: 28_k_cct_histogram-eps-converted-to.pdf used on input 
+line 51.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\OT1/ptm/m/n/9 Fig. 4: C-C-T vs. fea-si-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\OT1/ptm/m/n/9 path num-ber $\OML/cmm/m/it/9 k$ \OT1/ptm/m/n/9 with 2-8
+ []
+
+Package epstopdf Info: Source file: <normal_k_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112569 bytes
+(epstopdf)             Output file: <normal_k_cct_histogram-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-07-20 21:49:55
+(epstopdf)                    size: 12580 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_k_cct_histogram-eps-
+converted-to.pdf normal_k_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
+
+<normal_k_cct_histogram-eps-converted-to.pdf, id=81, 234.8775pt x 163.61125pt>
+File: normal_k_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use normal_k_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: normal_k_cct_histogram-eps-converted-to.pdf used on in
+put line 58.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+Package epstopdf Info: Source file: <28_count_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110370 bytes
+(epstopdf)             Output file: <28_count_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:56
+(epstopdf)                    size: 7253 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_count_cct-eps-converted-
+to.pdf 28_count_cct.eps>
+(epstopdf)             \includegraphics on input line 65.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_count_cct-eps-converted-to.pdf, id=82, 234.8775pt x 163.61125pt>
+File: 28_count_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_count_cct-eps-converted-to.pdf>
+Package pdftex.def Info: 28_count_cct-eps-converted-to.pdf used on input line 6
+5.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+Package epstopdf Info: Source file: <normal_count_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110379 bytes
+(epstopdf)             Output file: <normal_count_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:57
+(epstopdf)                    size: 7261 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_count_cct-eps-conver
+ted-to.pdf normal_count_cct.eps>
+(epstopdf)             \includegraphics on input line 72.
+Package epstopdf Info: Output file is already uptodate.
+
+<normal_count_cct-eps-converted-to.pdf, id=83, 234.8775pt x 163.61125pt>
+File: normal_count_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use normal_count_cct-eps-converted-to.pdf>
+Package pdftex.def Info: normal_count_cct-eps-converted-to.pdf used on input li
+ne 72.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+Package epstopdf Info: Source file: <28_count_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112278 bytes
+(epstopdf)             Output file: <28_count_cct_histogram-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-07-20 21:49:56
+(epstopdf)                    size: 11231 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_count_cct_histogram-eps-
+converted-to.pdf 28_count_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 79.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_count_cct_histogram-eps-converted-to.pdf, id=84, 234.8775pt x 163.61125pt>
+File: 28_count_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_count_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: 28_count_cct_histogram-eps-converted-to.pdf used on in
+put line 79.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\OT1/ptm/m/n/9 Fig. 8: C-C-T vs. Num-ber
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 80--80
+\OT1/ptm/m/n/9 of ToR switch-es with 2-8
+ []
+
+Package epstopdf Info: Source file: <normal_count_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112289 bytes
+(epstopdf)             Output file: <normal_count_cct_histogram-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:57
+(epstopdf)                    size: 11400 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_count_cct_histogram-
+eps-converted-to.pdf normal_count_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 85.
+Package epstopdf Info: Output file is already uptodate.
+
+<normal_count_cct_histogram-eps-converted-to.pdf, id=85, 234.8775pt x 163.61125
+pt>
+File: normal_count_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use normal_count_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: normal_count_cct_histogram-eps-converted-to.pdf used o
+n input line 85.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+Package epstopdf Info: Source file: <28_delta_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110626 bytes
+(epstopdf)             Output file: <28_delta_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:58
+(epstopdf)                    size: 7905 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_delta_cct-eps-converted-
+to.pdf 28_delta_cct.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_delta_cct-eps-converted-to.pdf, id=86, 234.8775pt x 163.61125pt>
+File: 28_delta_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_delta_cct-eps-converted-to.pdf>
+Package pdftex.def Info: 28_delta_cct-eps-converted-to.pdf used on input line 9
+5.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 3701) in paragraph at lines 96--96
+[]|\OT1/ptm/m/n/9 Fig. 10: C-C-T com-pared to
+ []
+
+Package epstopdf Info: Source file: <normal_delta_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110639 bytes
+(epstopdf)             Output file: <normal_delta_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:59
+(epstopdf)                    size: 7924 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_delta_cct-eps-conver
+ted-to.pdf normal_delta_cct.eps>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+<normal_delta_cct-eps-converted-to.pdf, id=87, 234.8775pt x 163.61125pt>
+File: normal_delta_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use normal_delta_cct-eps-converted-to.pdf>
+Package pdftex.def Info: normal_delta_cct-eps-converted-to.pdf used on input li
+ne 102.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 3701) in paragraph at lines 103--103
+[]|\OT1/ptm/m/n/9 Fig. 11: C-C-T com-pared to
+ []
+
+Package epstopdf Info: Source file: <28_delta_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 113257 bytes
+(epstopdf)             Output file: <28_delta_cct_histogram-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-07-20 21:49:58
+(epstopdf)                    size: 11673 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_delta_cct_histogram-eps-
+converted-to.pdf 28_delta_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 109.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_delta_cct_histogram-eps-converted-to.pdf, id=88, 234.8775pt x 163.61125pt>
+File: 28_delta_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_delta_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: 28_delta_cct_histogram-eps-converted-to.pdf used on in
+put line 109.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 1472) in paragraph at lines 110--110
+[]|\OT1/ptm/m/n/9 Fig. 12: C-C-T vs. con-fig-u-ra-
+ []
+
+Package epstopdf Info: Source file: <normal_delta_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:10
+(epstopdf)                    size: 113268 bytes
+(epstopdf)             Output file: <normal_delta_cct_histogram-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-07-20 21:49:59
+(epstopdf)                    size: 12137 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_delta_cct_histogram-
+eps-converted-to.pdf normal_delta_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+<normal_delta_cct_histogram-eps-converted-to.pdf, id=89, 234.8775pt x 163.61125
+pt>
+File: normal_delta_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use normal_delta_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: normal_delta_cct_histogram-eps-converted-to.pdf used o
+n input line 116.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 5260) in paragraph at lines 117--117
+[]|\OT1/ptm/m/n/9 Fig. 13: C-C-T vs. con-fig-u-
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 117--117
+\OT1/ptm/m/n/9 ra-tion de-lay $\OML/cmm/m/it/9 $ \OT1/ptm/m/n/9 with nor-mal
+ []
+
+Package epstopdf Info: Source file: <28_flow_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110386 bytes
+(epstopdf)             Output file: <28_flow_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:50:00
+(epstopdf)                    size: 7085 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_flow_cct-eps-converted-t
+o.pdf 28_flow_cct.eps>
+(epstopdf)             \includegraphics on input line 124.
+Package epstopdf Info: Output file is already uptodate.
+<28_flow_cct-eps-converted-to.pdf, id=90, 234.8775pt x 163.61125pt>
+File: 28_flow_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_flow_cct-eps-converted-to.pdf>
+Package pdftex.def Info: 28_flow_cct-eps-converted-to.pdf used on input line 12
+4.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 3701) in paragraph at lines 125--125
+[]|\OT1/ptm/m/n/9 Fig. 14: C-C-T com-pared to
+ []
+
+Package epstopdf Info: Source file: <normal_flow_cct.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 110397 bytes
+(epstopdf)             Output file: <normal_flow_cct-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:50:01
+(epstopdf)                    size: 7095 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_flow_cct-eps-convert
+ed-to.pdf normal_flow_cct.eps>
+(epstopdf)             \includegraphics on input line 131.
+Package epstopdf Info: Output file is already uptodate.
+<normal_flow_cct-eps-converted-to.pdf, id=91, 234.8775pt x 163.61125pt>
+File: normal_flow_cct-eps-converted-to.pdf Graphic file (type pdf)
+
+<use normal_flow_cct-eps-converted-to.pdf>
+Package pdftex.def Info: normal_flow_cct-eps-converted-to.pdf used on input lin
+e 131.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+
+Underfull \hbox (badness 3701) in paragraph at lines 132--132
+[]|\OT1/ptm/m/n/9 Fig. 15: C-C-T com-pared to
+ []
+
+Package epstopdf Info: Source file: <28_flow_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112891 bytes
+(epstopdf)             Output file: <28_flow_cct_histogram-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-07-20 21:50:00
+(epstopdf)                    size: 12958 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_flow_cct_histogram-eps-c
+onverted-to.pdf 28_flow_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 138.
+Package epstopdf Info: Output file is already uptodate.
+<28_flow_cct_histogram-eps-converted-to.pdf, id=92, 234.8775pt x 163.61125pt>
+File: 28_flow_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_flow_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: 28_flow_cct_histogram-eps-converted-to.pdf used on inp
+ut line 138.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+Package epstopdf Info: Source file: <normal_flow_cct_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112899 bytes
+(epstopdf)             Output file: <normal_flow_cct_histogram-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-07-20 21:50:01
+(epstopdf)                    size: 13244 bytes
+(epstopdf)             Command: <epstopdf --outfile=normal_flow_cct_histogram-e
+ps-converted-to.pdf normal_flow_cct_histogram.eps>
+(epstopdf)             \includegraphics on input line 145.
+Package epstopdf Info: Output file is already uptodate.
+
+<normal_flow_cct_histogram-eps-converted-to.pdf, id=93, 234.8775pt x 163.61125p
+t>
+File: normal_flow_cct_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use normal_flow_cct_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: normal_flow_cct_histogram-eps-converted-to.pdf used on
+ input line 145.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 3492) has occurred while \output is active []
+
+ [7 <D:/JRS-OCSN/TCS-Infocom/28_k_cct-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-In
+focom/normal_k_cct-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/28_k_cct_hist
+ogram-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/normal_k_cct_histogram-eps
+-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/28_count_cct-eps-converted-to.pdf> 
+<D:/JRS-OCSN/TCS-Infocom/normal_count_cct-eps-converted-to.pdf> <D:/JRS-OCSN/TC
+S-Infocom/28_count_cct_histogram-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom
+/normal_count_cct_histogram-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/28_d
+elta_cct-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/normal_delta_cct-eps-co
+nverted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/28_delta_cct_histogram-eps-converted-t
+o.pdf> <D:/JRS-OCSN/TCS-Infocom/normal_delta_cct_histogram-eps-converted-to.pdf
+> <D:/JRS-OCSN/TCS-Infocom/28_flow_cct-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-I
+nfocom/normal_flow_cct-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/28_flow_c
+ct_histogram-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/normal_flow_cct_his
+togram-eps-converted-to.pdf>] Excluding 'comment' comment.
+Package epstopdf Info: Source file: <28_k_time_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112845 bytes
+(epstopdf)             Output file: <28_k_time_histogram-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-20 21:50:02
+(epstopdf)                    size: 11410 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_k_time_histogram-eps-con
+verted-to.pdf 28_k_time_histogram.eps>
+(epstopdf)             \includegraphics on input line 192.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_k_time_histogram-eps-converted-to.pdf, id=178, 234.8775pt x 163.61125pt>
+File: 28_k_time_histogram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 28_k_time_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: 28_k_time_histogram-eps-converted-to.pdf used on input
+ line 192.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+ Excluding 'comment' comment.
+Package epstopdf Info: Source file: <28_count_time_histogram.eps>
+(epstopdf)                    date: 2017-07-20 21:43:08
+(epstopdf)                    size: 112319 bytes
+(epstopdf)             Output file: <28_count_time_histogram-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-07-20 21:50:02
+(epstopdf)                    size: 13916 bytes
+(epstopdf)             Command: <epstopdf --outfile=28_count_time_histogram-eps
+-converted-to.pdf 28_count_time_histogram.eps>
+(epstopdf)             \includegraphics on input line 208.
+Package epstopdf Info: Output file is already uptodate.
+
+<28_count_time_histogram-eps-converted-to.pdf, id=179, 234.8775pt x 163.61125pt
+>
+File: 28_count_time_histogram-eps-converted-to.pdf Graphic file (type pdf)
+ <use 28_count_time_histogram-eps-converted-to.pdf>
+Package pdftex.def Info: 28_count_time_histogram-eps-converted-to.pdf used on i
+nput line 208.
+(pdftex.def)             Requested size: 116.35252pt x 81.04897pt.
+)
+(D:\JRS-OCSN\TCS-Infocom\relwork.tex [8 <D:/JRS-OCSN/TCS-Infocom/28_k_time_hist
+ogram-eps-converted-to.pdf> <D:/JRS-OCSN/TCS-Infocom/28_count_time_histogram-ep
+s-converted-to.pdf>]) (D:\JRS-OCSN\TCS-Infocom\conclusion.tex)
+(D:\JRS-OCSN\TCS-Infocom\TCS-OCSM.bbl
+Missing character: There is no ¡ in font ptmr7t!
+) (D:\JRS-OCSN\TCS-Infocom\appendix1.tex)
+(D:\JRS-OCSN\TCS-Infocom\appendix2.tex [9])
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[10
+
+] (D:\JRS-OCSN\TCS-Infocom\TCS-OCSM.aux) ) 
+Here is how much of TeX's memory you used:
+ 5605 strings out of 495354
+ 86113 string characters out of 3183860
+ 160196 words of memory out of 3000000
+ 8579 multiletter control sequences out of 15000+200000
+ 43561 words of font info for 96 fonts, out of 3000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 42i,11n,38p,2036b,600s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontn
+ame/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/CTEX/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.
+pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CT
+EX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/type1/
+public/amsfonts/symbols/msbm10.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhv
+r8a.pfb><C:/CTEX/UserData/fonts/type1/urw/symbol/usyr.pfb><C:/CTEX/MiKTeX/fonts
+/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><
+C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on TCS-OCSM.pdf (10 pages, 429101 bytes).
+PDF statistics:
+ 244 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

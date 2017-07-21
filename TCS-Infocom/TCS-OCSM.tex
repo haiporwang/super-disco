@@ -1,0 +1,183 @@
+\documentclass[conference]{IEEEtran}[10pt]
+
+
+\makeatletter
+\def\ps@headings{%
+\def\@oddhead{\mbox{}\scriptsize\rightmark \hfil \thepage}%
+\def\@evenhead{\scriptsize\thepage \hfil \leftmark\mbox{}}%
+\def\@oddfoot{}%
+\def\@evenfoot{}}
+\makeatother \pagestyle{headings}
+
+\makeatletter
+\def\ps@headings{%
+\def\@oddhead{\mbox{}\scriptsize\rightmark \hfil \thepage}%
+\def\@evenhead{\scriptsize\thepage \hfil \leftmark\mbox{}}%
+\def\@oddfoot{}%
+\def\@evenfoot{}}
+\makeatother \pagestyle{headings}
+
+
+\usepackage{cite}
+\usepackage{times}
+%\usepackage{dsfont}
+
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{subfigure}
+\usepackage{color}
+\usepackage{ifpdf}
+%\usepackage{subfig}
+\usepackage{epsfig}
+\usepackage{latexsym}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{paralist}
+\usepackage{comment}
+\usepackage{xspace}
+\usepackage{mathrsfs}
+\usepackage{amssymb}
+\usepackage{slashbox}
+\usepackage{setspace}
+\usepackage{color}
+\usepackage[small]{caption2}
+
+\usepackage{algorithm}
+%\usepackage{algorithmic}
+%\usepackage[linesnumbered,boxed]{algorithm2e}
+%\usepackage[ruled]{algorithm}
+\usepackage[noend]{algorithmic}
+\usepackage{algorithmic}
+
+\usepackage{amssymb}
+\usepackage{url,epsfig,array}
+\usepackage{leftidx}
+\usepackage{amsmath}
+
+\usepackage[
+top=0.85in, bottom=0.85in,
+left=0.75in, right=0.75in
+  %pass,% keep layout unchanged
+  % showframe,% show the layout
+]{geometry}
+
+% correct bad hyphenation here
+\hyphenation{optical networks semi-conductor}
+
+\def\ie{\textit{i.e.}\xspace}
+\def\etal{\textit{et al.}\xspace}
+\def\etc{\textit{etc.}\xspace}
+\def\whp{\textit{w.h.p.}\xspace}
+\def\eg{\textit{e.g.}\xspace}
+\def\iid{\textit{i.i.d.}\xspace}
+\def\st{\xspace\textbf{s.t.}\xspace}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}{Definition}
+\newtheorem{lemma}[theorem]{Lemma}
+%\newtheorem{theorem}[theorem]{Theorem}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{protocol}{Protocol}
+
+\def\sharedaffiliation{%
+\end{tabular}
+\begin{tabular}{c}}
+
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+
+\newcommand{\hint}{\texttt{hint()}}
+
+\setlength{\abovedisplayskip}{1pt}
+\setlength{\belowdisplayskip}{1pt}
+
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+\renewcommand{\algorithmicensure}{\textbf{Output:}}
+\newcommand{\argmax}{\operatornamewithlimits{argmax}}
+
+\newcommand{\linote}[1]{{$\langle${\textcolor{red}{\textbf{#1}}}$\rangle$}}
+\newcommand{\mynote}[1]{{$\langle${\textcolor{blue}{\textbf{#1}}}$\rangle$}}
+
+\begin{document}
+
+%
+% paper title
+% can use linebreaks \\ within to get better formatting as desired
+\title{Integrating Coflow and Circuits Scheduling for Optical Networks}
+%\title{Joint Optimization of Control Plane and Data Plane in SDNs with Multiple Controllers}
+
+% author names and affiliations
+% use a multiple column layout for up to three different
+% affiliations
+%\author{\IEEEauthorblockN{Conference Subsmission$^1$} }
+
+\author{\IEEEauthorblockN{IEEE INFOCOM 2018, Paper \# } }
+
+\maketitle
+%\author{\IEEEauthorblockN{IEEE IWQoS 2017 Submission, Paper \# 1570347180} }
+\begin{abstract}
+%\boldmath
+\input{abstract.tex}
+\end{abstract}
+
+\begin{IEEEkeywords}
+\emph{Coflow, Routing and scheduling, OCS.}
+\end{IEEEkeywords}
+\begin{comment}
+
+\author{\IEEEauthorblockN{Hongli Xu$^1$ \   Liusheng Huang$^1$}
+\IEEEauthorblockA{Email:
+xuhongli@ustc.edu.cn, lshuang@ustc.edu.cn\\
+$^1$ School of Computer Science and Technology, University of
+Science and Technology of China, China } }
+%\IEEEauthorblockN{Liusheng Huang\\
+%and Montgomery Scott}
+%\IEEEauthorblockA{Starfleet Academy\\
+%San Francisco, California 96678-2391\\
+%Telephone: (800) 555--1212\\
+%Fax: (888) 555--1212}}
+\end{comment}
+% make the title area
+
+
+\section{Introduction}\label{sec:intro}
+\input{intro.tex}
+
+
+\section{Problem Formulation}\label{sec:prelim}
+\input{formu.tex}
+
+
+\section{Algorithm and analysis}\label{sec:design}
+\input{algorithm.tex}
+
+
+\section{Evaluation}\label{sec:evaluation}
+\input{evaluation.tex}
+
+
+\section{Related works}\label{sec:relwork}
+\input{relwork.tex}
+
+
+\section{Conclusion}\label{sec:conclusion}
+\input{conclusion.tex}
+
+\bibliographystyle{IEEEtran}
+\bibliography{refs}
+
+%\section{Appendix}
+%\input{appendix.tex}
+
+\appendices
+%
+\section{Proof of Lemma \ref{COS:nphard}}\label{proof:COS}
+\input{appendix1.tex}
+
+%
+\section{Proof of Lemma \ref{CIS:nphard}}\label{proof:CIS}
+\input{appendix2.tex}
+
+
+\end{document}

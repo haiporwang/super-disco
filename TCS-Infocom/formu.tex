@@ -1,0 +1,81 @@
+\subsection{Network Model}\label{sec:networkmodel}
+We start with the conceptional model used to study the scheduling algorithm. In an optical circuit switched (OCS) network, the switch ports are connected to Top-of-Rack (ToR) switches, and each ToR switch is connected to $k$ machines. The link bandwidth is $B$. The source and destination nodes of a flow are ToR switches. Each ToR switch can serve as a source and destination simultaneously. We assume no buffering in the optical circuit switched netowrk, hence all the buffering occurs in the edge of the network, i.e. with the ToR switches. A flow can be forwarded only when the lightpath is set up between the source node and the destination node. In this article, the optical circuit switched (OCS) network and optical network are the same meaning.
+
+With this network model, we have the following assumptions for the network.
+
+\begin{itemize}
+\item Each source-destination ToR switch pair has $k$ feasible lightpaths. Since a ToR switch has $k$ output ports which are connected to $k$ machines, we assume that the $k$ feasible lightpaths exist. What's more, if $k$ feasible lightpaths are in the same port of a ToR, these lightpaths will be no big difference with a single lightpath and these lightpaths even need a extra delay during circuits reconfiguration. On this account, we assume that the these $k$ lightpaths will pass through different ports of the ToR switch pair. For a ToR switch pair $(i.j)$, the $k$-feasible lightpath set is denoted as $P_{i,j}$. The feasible lightpath set for all ToR switch pairs is denoted by $P=\bigcup_{i,j}P_{i,j}$.  
+\item Inspired by \cite{chowdhury2011managing} \cite{chowdhury2014efficient}, we assume that our network runs in a centralized manner, which accords with many recent centralized optical networks \cite{simeonidou2013software} \cite{ramamurthy2002fixed}. In this paper, we assume that the information about a coflow is given and the central scheduler can control all the switches in the network. 
+\end{itemize}
+
+\subsection{Traffic Model}\label:{sec:trafficmodel}
+In this part, we focus on the traffic model called $\emph{coflow}$, which is defined as the set of all flows transferring between two stages of a job. Because the ToR switch is not just a host, there may be more than one flows from ToR switch $i$ to ToR switch $j$. A flow set of a coflow can be denoted as $C$, where each element $\Gamma_{i,j}\in C$ indicates flow set $\Gamma_{i,j}$ that include all flows from ToR switch $i$ to ToR switch $j$. Note that $|C|$ is the number of flows in a coflow $C$. Denote $f_{i,j}^m$ as the $m^{th}$ flow of $\Gamma_{i,j}$ and $d_{i,j}^m$ as the amount of data of $f_{i,j}^m$. In this paper the flow is unsplittable. %If not mentioned, the flow is interruptible \cite{huang2016sunflow}.
+
+Combined with the Section \ref{sec:networkmodel}, we have some remarks. In the network model, there is a feasible ligthpath set $P_{i,j}$ for a source-destination ToR switch pair $(i,j)$. Likewise, there is a flow set $\Gamma_{i,j}=\{f_{i,j}^1,f_{i,j}^2,...,f_{i,j}^m\}$ for the ToR switch pair $(i,j)$. That is, for each flow set $f_{i,j}$, there corresponds a lightpath set $P_{i,j}$.
+\subsection{Routing and Scheduling Objective}\label{sec:objective}
+For a coflow $C$, the objective is to minimize the Coflow Completion Time (CCT), which is the duration to finish all the flows in a coflow, so as to speed up application level performance. To achieve this goal, we propose two notions as follows.
+\begin{itemize}
+
+
+
+\item \textbf{Feasible lightpath set:} For a flow set $\Gamma_{i,j}$, there may be more than one lightpath from ToR switch $i$ to $j$. combined with the assumption in \ref{sec:networkmodel}, the feasible lightpath set has $k$ feasible paths. Denote $P_{i,j}$ as the feasible path set of flow set $\Gamma_{i,j}$.
+\item \textbf{Active period for a lightpath:} Because of the OCS network scheme, a lightpaths in our network model changes when a new circuit is set up or the former circuit is torn down. So a lightpath lasts for a period, called ``active period". It's worth noting that an active period is an interval and the interval length is the \textbf{duration} for a lightpath.
+\end{itemize}
+
+With these notions, we illustrate our problem. Our objective is to minimize the coflow completion time (CCT). What we know are network model and coflow information. We need to determine which feasible lightpaths and when to forward flows. Besides, we need to schedule the OCS network to finish the transmission of a coflow. So our problem is called \textbf{Coflow and Circuits Scheduling problem (COCIS)}.
+
+The COCIS problem is NP-hard. Furthermore, we will show the two subproblems, coflow scheduling (COS) and circuits scheduling (CIS), are NP-hard too. The COS problem is a special case that the circuits scheduling in the OCS network is fixed. Likewise, the CIS problem is the special case that the coflow routing and scheduling are fixed. After we prove that COS and CIS are NP-hard, COCIS is NP-hard too.
+
+
+%\subsubsection{Interruptible Coflow Routing and Scheduling(ICRS)}
+\begin{comment}An interruptible flow spans multiple active period. That is, for an interruptible flow, an active period in a lightpath with unfinished transmission demand incurs extra active periods to continue the transmission. Interruptible flows are widely applied in classical networks, especially the networks with reliable communications protocols such as TCP.
+
+In an OCS network, the interruptible flows are still very common \cite{huang2016sunflow}. In order to minimize the CCT, for each flow $f_{i,j}^k\in f_{i,j}$ and each $f_{i,j}\in C$, we need to choose a period $[t_p^{start},t_p^{end}]\in T_{i,j}$ and determine the start time $t_{f_{i,j}^k}^{start}$ for $f_{i,j}$ that satisfies:
+\begin{equation}\label{formu_1}
+\begin{aligned}
+t_{f_{i,j}^k}^{start}&\geq t_{f_{i,j}^k}^{permitted}\\
+ t_p^{start} \leq &t_{f_{i,j}^k}^{start}\leq t_p^{end}\\
+ \end{aligned}
+ \end{equation}
+
+Note that $t_{f_{i,j}^k}^{permitted}$ is the permitted start time for ${f_{i,j}^k}$. For example, when part of a flow is transmitted, the remaining part can only be allowed to transmitted after that. The second inequalities in Eq. \ref{formu_1} mean that the flows should be forwarded in the active period. Once a flow transmission is finished, the active time need to de updated. Likewise, once the transmission is not finished and the the active period is over, the amount of data of the flow should be updated. Our objective is:
+ \begin{equation}\label{objective_1}
+ \begin{aligned}
+ \min \ \ & t  \\
+ t_{f_{i,j}^k}^{start}+\frac{d_{i,j}^k}{B}&\leq t, \qquad\forall f_{i,j}^k\\
+ \end{aligned}
+ \end{equation}
+\end{comment}
+%\subsubsection{Non-Interruptible Coflow Routing and Scheduling(NICRS)}
+\begin{comment}
+An non-interruptible flow, should be forwarded within a single active period. In an OCS network with UDP, the sender has no idea about the change of lightpath and continues it's transmission, which is useless and results in the transmission failure. To avoid this type of failure, the assumption that the flow is non-interruptible is necessary.
+
+
+
+In order to minimize the CCT, for each flow $f_{i,j}^k\in f_{i,j},f_{i,j}\in C$, we need to choose a period $[t_p^{start},t_p^{end}]\in T_{i,j}$ and determine the start time $t_{f_{i,j}^k}^{start}$ for $f_{i,j}$ that satisfies:
+\begin{equation}\label{formu_2}
+\begin{aligned}
+ t_{f_{i,j}^k}^{start}+\frac{d_{i,j}^k}{B}&\leq t_p^{end}\\
+ t_{f_{i,j}^k}^{start}&\geq t_p^{start}\\
+ \end{aligned}
+ \end{equation}
+
+The above inequalities mean that the flows should be forwarded and the transmission is finished in the active period. Once a flow transmission is finished, the active period needs to be updated. Our objective is:
+ \begin{equation}\label{objective_2}
+ \begin{aligned}
+ \min \ \ & t  \\
+ t_{f_{i,j}^k}^{start}+\frac{d_{i,j}^k}{B}&\leq t, \qquad\forall f_{i,j}^k\\
+ \end{aligned}
+ \end{equation}
+\end{comment}
+
+\begin{theorem}\label{COS:nphard}
+The COS problem is NP-hard.
+\end{theorem}
+
+\begin{theorem}\label{CIS:nphard}
+The CIS problem is NP-hard.
+\end{theorem}
+
+The proofs of lemmas \ref{COS:nphard} and \ref{CIS:nphard} have been relegated to the
+Appendixes A and B, respectively.
